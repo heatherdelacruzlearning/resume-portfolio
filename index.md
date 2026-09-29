@@ -9,6 +9,7 @@ title: Home
   <div class="cta-row">
     <a class="button primary" href="{{ '/portfolio/projects.html' | relative_url }}">View Projects</a>
     <a class="button secondary" href="{{ '/resume/Heather_DelaCruz_Resume_2026_Portfolio.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download Résumé</a>
+    <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact Me</a>
   </div>
 </div>
 
