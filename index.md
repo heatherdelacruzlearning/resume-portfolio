@@ -8,7 +8,6 @@ title: Home
   <p class="lead">I design digital learning experiences that help people learn complex technology, adopt new workflows, and perform with confidence.</p>
   <div class="cta-row">
     <a class="button primary" href="{{ '/portfolio/projects.html' | relative_url }}">View Projects</a>
-    <a class="button secondary" href="{{ '/resume/Heather_DelaCruz_Resume_2026_Portfolio.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download Résumé</a>
     <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact Me</a>
   </div>
 </div>
@@ -46,26 +45,45 @@ title: Home
   </div>
 </section>
 
-<section class="section">
-  <div class="section-header">
-    <p class="eyebrow">Featured Work</p>
-    <h2>Recent project highlights</h2>
-  </div>
+<div class="grid two">
+  <section class="section">
+    <div class="section-header">
+      <p class="eyebrow">Featured Work</p>
+      <h2>Recent project highlights</h2>
+    </div>
 
-  <div class="grid two">
-    <article class="project-summary">
-      <h3>Healthcare Technology Product Training</h3>
-      <p>Designed and delivered multi-platform learning for healthcare technology adoption, certification, and client enablement.</p>
-      <a href="{{ '/case-studies/healthcare-product-training.html' | relative_url }}">Read case study</a>
-    </article>
+    <div class="grid two">
+      <article class="project-summary">
+        <h3>Healthcare Technology Product Training</h3>
+        <p>Designed and delivered multi-platform learning for healthcare technology adoption, certification, and client enablement.</p>
+        <a href="{{ '/case-studies/healthcare-product-training.html' | relative_url }}">Read case study</a>
+      </article>
 
-    <article class="project-summary">
-      <h3>Enterprise LMS Implementation</h3>
-      <p>Implemented and administered enterprise LMS platforms, creating a scalable learning environment and operational support model.</p>
-      <a href="{{ '/case-studies/lms-implementation.html' | relative_url }}">Read case study</a>
-    </article>
-  </div>
-</section>
+      <article class="project-summary">
+        <h3>Enterprise LMS Implementation</h3>
+        <p>Implemented and administered enterprise LMS platforms, creating a scalable learning environment and operational support model.</p>
+        <a href="{{ '/case-studies/lms-implementation.html' | relative_url }}">Read case study</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="section how-i-work">
+    <div class="section-header">
+      <p class="eyebrow">How I Work</p>
+      <h2>From complex information to practical learning</h2>
+    </div>
+
+    <ul class="approach-list">
+      <li>Start with the learner, the performance need, and the desired outcome.</li>
+      <li>Partner closely with SMEs, product teams, stakeholders, and business units.</li>
+      <li>Translate complex workflows and technical information into clear, usable learning.</li>
+      <li>Choose the right format for the objective, including eLearning, video, scenarios, job aids, and performance support.</li>
+      <li>Design for both client-facing and associate-facing audiences when learning needs overlap.</li>
+      <li>Build with consistency, accessibility, maintainability, and scale in mind.</li>
+      <li>Use learner activity, reporting, feedback, and operational data to support ongoing improvement.</li>
+    </ul>
+  </section>
+</div>
 
 <section class="section">
   <div class="section-header">
