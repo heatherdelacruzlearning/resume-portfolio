@@ -1,0 +1,27 @@
+theme: jekyll-theme-minimal
+
+title: Heather DelaCruz
+description: Senior Learning Experience Designer | eLearning Developer | LMS Administrator
+
+# Site metadata
+author: Heather DelaCruz
+email: hdelacruz1@icloud.com
+location: Kansas City Metropolitan Area
+linkedin_url: https://linkedin.com/in/heather-delacruz-2b639334
+
+# Portfolio settings
+show_downloads: false
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+# Exclude repository-only files from the published site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - .github
