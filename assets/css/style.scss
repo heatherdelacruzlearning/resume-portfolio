@@ -161,6 +161,12 @@ footer {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+/* Featured Work nested grid - override to stack vertically */
+.section .grid.two {
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
 .card,
 .project-summary {
   padding: 1.35rem;
@@ -185,6 +191,23 @@ footer {
   display: inline-block;
   margin-top: 0.75rem;
   font-weight: 600;
+}
+
+/* =========================================================
+   How I Work Section
+   ========================================================= */
+
+.how-i-work .approach-list {
+  margin: 1rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.how-i-work .approach-list li {
+  margin-bottom: 0.75rem;
+}
+
+.how-i-work .approach-list li:last-child {
+  margin-bottom: 0;
 }
 
 /* =========================================================
