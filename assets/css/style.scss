@@ -1,0 +1,322 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================================================
+   Base
+   ========================================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f2937;
+  background: #f8fafc;
+  line-height: 1.7;
+}
+
+a {
+  color: #1e3a5f;
+}
+
+a:hover,
+a:focus {
+  color: #0f172a;
+}
+
+/* =========================================================
+   Override jekyll-theme-minimal layout
+   ========================================================= */
+
+.wrapper {
+  width: min(1100px, calc(100% - 3rem));
+  margin: 0 auto;
+}
+
+header {
+  width: auto;
+  float: none;
+  position: static;
+  padding: 2rem 0 1.5rem;
+  margin-bottom: 1rem;
+  background: transparent;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+header h1 {
+  margin: 0 0 0.35rem;
+  font-size: 1.8rem;
+  line-height: 1.2;
+  color: #111827;
+}
+
+header p {
+  margin: 0.25rem 0;
+  color: #4b5563;
+  font-size: 0.95rem;
+}
+
+.wrapper > section {
+  width: auto;
+  float: none;
+  padding: 0 0 3rem;
+  margin: 0;
+  border: 0;
+  background: transparent;
+}
+
+footer {
+  width: auto;
+  float: none;
+  position: static;
+  padding: 1.5rem 0 2.5rem;
+  margin-top: 2rem;
+  border-top: 1px solid #e5e7eb;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+/* =========================================================
+   Hero
+   ========================================================= */
+
+.hero {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 3rem;
+  box-shadow: 0 10px 26px rgba(15, 23, 42, 0.07);
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.4rem, 5vw, 4rem);
+  line-height: 1.08;
+  margin: 0 0 1rem;
+  color: #111827;
+}
+
+.eyebrow {
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #526273;
+}
+
+.lead {
+  max-width: 760px;
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  color: #374151;
+}
+
+/* =========================================================
+   Content Sections
+   ========================================================= */
+
+.section {
+  margin-top: 2rem;
+  padding: 2rem;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+}
+
+.section-header {
+  margin-bottom: 1rem;
+}
+
+.section-header h2 {
+  margin: 0;
+  font-size: clamp(1.55rem, 2.5vw, 2.1rem);
+  color: #111827;
+}
+
+/* =========================================================
+   Grids & Cards
+   ========================================================= */
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.grid.three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid.two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.card,
+.project-summary {
+  padding: 1.35rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+}
+
+.card h3,
+.project-summary h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #111827;
+}
+
+.card p,
+.project-summary p {
+  margin-bottom: 0;
+}
+
+.project-summary a {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+}
+
+/* =========================================================
+   Buttons
+   ========================================================= */
+
+.cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.75rem 1.25rem;
+  border-radius: 999px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.button:hover,
+.button:focus {
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.button.primary {
+  background: #0f172a;
+  color: #ffffff;
+}
+
+.button.primary:hover,
+.button.primary:focus {
+  background: #1e3a5f;
+  color: #ffffff;
+}
+
+.button.secondary {
+  background: #f2efe8;
+  color: #0f172a;
+  border: 1px solid #d6d3d1;
+}
+
+.button.secondary:hover,
+.button.secondary:focus {
+  background: #e8e5dd;
+}
+
+/* =========================================================
+   Technology Tags
+   ========================================================= */
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  padding: 0;
+  margin: 1rem 0 0;
+  list-style: none;
+}
+
+.tag-list li {
+  padding: 0.4rem 0.75rem;
+  background: #eef2ff;
+  color: #1e3a8a;
+  border: 1px solid #c7d2fe;
+  border-radius: 999px;
+  font-size: 0.86rem;
+  font-weight: 600;
+}
+
+/* =========================================================
+   Contact
+   ========================================================= */
+
+.contact-panel {
+  background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+}
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contact-links a {
+  font-weight: 600;
+}
+
+/* =========================================================
+   Responsive
+   ========================================================= */
+
+@media screen and (max-width: 850px) {
+  .grid.three,
+  .grid.two {
+    grid-template-columns: 1fr;
+  }
+
+  .wrapper {
+    width: min(100% - 2rem, 760px);
+  }
+
+  header {
+    padding: 1.5rem 0 1rem;
+  }
+
+  .hero {
+    padding: 2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper {
+    width: min(100% - 1.25rem, 760px);
+  }
+
+  .hero,
+  .section {
+    padding: 1.25rem;
+    border-radius: 12px;
+  }
+
+  .cta-row {
+    flex-direction: column;
+  }
+
+  .button {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,156 +1,79 @@
 # Featured Projects
 
-## eLearning & Instructional Design Projects
-
-A showcase of key learning experience design and eLearning development projects throughout my career.
+Professional examples of learning experience design, eLearning development, and LMS administration across healthcare technology, workforce learning, and continuing education environments.
 
 ---
 
 ## Healthcare Technology Product Training
-**NetSmart Technologies | 2019-Present**
+**Netsmart Technologies | 2019-Present**
 
-### Overview
-Developed comprehensive, multi-platform learning solutions for healthcare technology product adoption and client enablement. Created scenario-based, interactive learning experiences supporting complex workflows and clinical processes.
+Developed customer and associate learning solutions supporting product adoption, proficiency, and certification for complex healthcare technology. The work included scenario-based learning, certification pathways, multimedia training, and LMS delivery across multiple learning platforms.
 
-### Scope
-- **Audience**: Client organizations, healthcare professionals, internal associates
-- **Tools**: Articulate Rise 360, Storyline 360, Adobe Premiere Pro
-- **Delivery**: Skilljar/Gainsight LMS, Docebo (Elevate), myLearningPointe
-- **Content Types**: Interactive courses, certification programs, microlearning, video tutorials, job aids
+### Highlights
+- Interactive course design using Articulate Rise 360 and Storyline 360
+- Certification and learning path development
+- Scenario-based learning for product workflows
+- Video tutorials and performance support resources
+- Reporting and learning operations support across LMS platforms
 
-### Key Deliverables
-- Multi-course certification programs with assessments and learning paths
-- Interactive scenario-based learning modules (healthcare workflows)
-- Instructional video tutorials with captions and screen recordings
-- Job aids and performance support resources
-- Continuing education (CE) content and CE Broker integration
-
-### Impact
-- Enabled client adoption and proficiency with complex healthcare software
-- Supported certification-based credential programs
-- Reduced time-to-competency for product users
-- Streamlined CE operations and compliance tracking
-
-**[View Case Study →](./case-studies/healthcare-product-training.md)**
+[Read the case study]({{ '/case-studies/healthcare-product-training.html' | relative_url }})
 
 ---
 
-## LMS Implementation & Administration
+## Enterprise LMS Implementation & Administration
 **American Public Works Association | 2011-2019**
 
-### Overview
-Implemented, configured, and administered two enterprise learning management systems supporting organizational learning, continuing education, and membership training.
+Implemented and administered LMS platforms to support organizational learning, continuing education, and member training. This included system setup, content publishing, course management, learner support, reporting, and process documentation.
 
-### Projects
+### Highlights
+- LMS implementation and configuration across multiple platforms
+- Course development for online learning and continuing education
+- Administrator and learner support resources
+- Process design and training documentation
+- Reporting, compliance workflows, and operational support
 
-#### iCohere LMS Implementation
-- **Scope**: Full LMS launch, configuration, user permission setup, data migration
-- **Audience**: Staff, instructors, members, partner organizations
-- **Outcomes**: Centralized learning delivery platform for organization-wide training and CE
-
-#### Topyx LMS Administration
-- **Scope**: Platform administration, ongoing configuration, user support, reporting
-- **Key Features**: Custom learning paths, assessment integration, CE tracking
-- **Outcomes**: Streamlined learning operations and continuing education processing
-
-### Content Development
-- Online courses using Articulate Storyline and Adobe Captivate
-- LMS training materials and user guides for administrators and learners
-- Process documentation and workflow guides
-- CE processing documentation and compliance resources
-
-**[View Case Study →](./case-studies/lms-implementation.md)**
+[Read the case study]({{ '/case-studies/lms-implementation.html' | relative_url }})
 
 ---
 
-## Instructional Video & Multimedia Production
+## Instructional Video & Multimedia Learning
+**Cross-functional client and internal learning initiatives**
 
-### Overview
-Produced professional instructional and training videos for product support, technical training, and learning content delivery.
+Produced screen-recorded instructional videos, tutorials, and supporting visual content to complement eLearning and knowledge transfer efforts. These assets supported software training, process learning, and performance support.
 
-### Capabilities
-- Screen recording and software tutorials
-- Narration, audio editing, and audio quality optimization
-- Professional captions and accessibility features
-- Graphics, titles, and branded visual elements
-- Adobe Premiere Pro editing and production
+### Highlights
+- Screen capture and software demonstrations
+- Narration, captioning, and audio cleanup
+- Learning videos for onboarding and product workflows
+- Visual and branded content design for digital learning
 
-### Applications
-- Product feature tutorials
-- Technical process documentation
-- LMS training and guidance videos
-- Performance support resources
+[View portfolio samples]({{ '/portfolio/portfolio-samples.html' | relative_url }})
 
 ---
 
-## Scenario-Based Learning
+## Scenario-Based Learning & Assessment Design
+**Client education and internal workforce learning**
 
-### Overview
-Designed and developed engaging scenario-based learning experiences that place learners in realistic, interactive situations to build decision-making and problem-solving skills.
+Designed interactive learning experiences that simulated real-world decision-making and task completion. These learning experiences supported application of knowledge to job-related decisions and processes.
 
-### Examples
-- Healthcare workflow decision scenarios
-- Client troubleshooting and resolution scenarios
-- Process and compliance decision trees
-- Real-world application activities
-
-### Outcomes
-- Increased learner engagement and knowledge retention
-- Improved transfer of learning to job performance
-- Enhanced critical thinking and decision-making skills
+### Highlights
+- Scenario-based learning modules and branching activities
+- Competency-based assessment design
+- Practice-based learning to reinforce application of knowledge
+- Decision support for operational readiness
 
 ---
 
-## Certification Program Development
+## Portfolio Samples
 
-### Overview
-Designed and managed comprehensive certification-based learning programs including curriculum planning, course development, assessments, and credential tracking.
+For more examples of supporting materials, downloadable resources, and project collateral, visit the portfolio samples page.
 
-### Components
-- Multi-course learning paths with prerequisites
-- Proficiency assessments and competency validation
-- CE/CEU integration and compliance tracking
-- Continuing education record management
-- Certificate issuance and credential tracking
-
-### Platforms
-- Skilljar/Gainsight (certification programs)
-- Docebo (Elevate) (CE integration)
-- myLearningPointe (subscription and CE management)
+[View portfolio samples]({{ '/portfolio/portfolio-samples.html' | relative_url }})
 
 ---
 
-## Emerging Technology Projects
+## Let's Build Better Learning
 
-### AI-Assisted Instructional Design
-- Leveraged generative AI (ChatGPT, Claude, Microsoft Copilot) for content ideation, outline development, and assessment creation
-- Tested and refined AI-assisted workflows for faster content development
-- Developed prompt engineering best practices for learning content
+I support organizations that need meaningful digital learning, structured LMS operations, and practical training that closes the gap between knowledge and application.
 
-### Microlearning Development
-- Created bite-sized learning modules (3-5 minutes)
-- Developed mobile-friendly, scenario-based microlearning content
-- Integrated spaced repetition and performance support
-
----
-
-## Additional Expertise
-
-### Learning Operations & Analytics
-- Monthly and quarterly learning reporting and KPI analysis
-- Learner data validation and reporting accuracy
-- Leadership reporting and decision support
-
-### Team Leadership & Mentoring
-- Peer review and quality assurance
-- Process improvement and standardization
-- Reusable templates and development frameworks
-- Team capability building and knowledge sharing
-
----
-
-## Let's Discuss Your Project
-
-Interested in discussing how I can support your learning experience design, eLearning development, or LMS administration needs?
-
-📧 [Contact Me](mailto:hdelacruz1@icloud.com) | 📱 816-803-6820 | 💼 [LinkedIn](https://linkedin.com/in/heather-delacruz-2b639334)
+[Contact me]({{ '/contact/' | relative_url }})
