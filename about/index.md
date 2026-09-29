@@ -32,4 +32,10 @@ Across healthcare technology, member education, and workforce learning, I have d
 - Cross-functional stakeholder collaboration
 - Process improvement and operational support
 
+<p>
+  <a href="{{ '/resume/Heather_DelaCruz_Resume_2026_Portfolio.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Download my résumé
+  </a>
+</p>
+
 [Contact me]({{ '/contact/' | relative_url }})

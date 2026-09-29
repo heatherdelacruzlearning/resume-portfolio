@@ -8,7 +8,7 @@ title: Home
   <p class="lead">I design digital learning experiences that help people learn complex technology, adopt new workflows, and perform with confidence.</p>
   <div class="cta-row">
     <a class="button primary" href="{{ '/portfolio/projects.html' | relative_url }}">View Projects</a>
-    <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact Me</a>
+    <a class="button secondary" href="{{ '/resume/Heather_DelaCruz_Resume_2026_Portfolio.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download Résumé</a>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ title: Home
     </article>
     <article class="card">
       <h3>LMS & Learning Ops</h3>
-      <p>Skilljar, Docebo, myLearningPointe, iCohere, Topyx, Totara, content publishing, enrollment, reporting, and user support.</p>
+      <p>Skilljar, Docebo, myLearning Pointe, iCohere, Topyx, Totara, content publishing, enrollment, reporting, and user support.</p>
     </article>
   </div>
 </section>
@@ -79,7 +79,7 @@ title: Home
     <li>Adobe Premiere Pro</li>
     <li>Skilljar</li>
     <li>Docebo</li>
-    <li>myLearningPointe</li>
+    <li>myLearning Pointe</li>
     <li>iCohere</li>
     <li>Topyx</li>
     <li>Totara</li>
