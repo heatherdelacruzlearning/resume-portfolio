@@ -131,6 +131,13 @@ footer {
   background: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 16px;
+
+  /* Reset layout inherited from the Jekyll Minimal theme */
+  float: none;
+  width: auto;
+  max-width: none;
+  position: static;
+  min-width: 0;
 }
 
 .section-header {
@@ -151,6 +158,10 @@ footer {
   display: grid;
   gap: 1.5rem;
   margin-top: 1.5rem;
+}
+
+.grid > * {
+  min-width: 0;
 }
 
 .grid.three {
