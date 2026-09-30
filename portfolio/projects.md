@@ -44,7 +44,7 @@ Developed customer and associate learning solutions supporting product adoption,
 - Video tutorials and performance support resources
 - Reporting and learning operations support across LMS platforms
 
-[Read the case study]({{ '/case-studies/healthcare-product-training.html' | relative_url }})
+<a class="button secondary" href="{{ '/case-studies/healthcare-product-training.html' | relative_url }}">Read the case study</a>
 
 ---
 
@@ -60,7 +60,7 @@ Implemented and administered LMS platforms to support organizational learning, c
 - Process design and training documentation
 - Reporting, compliance workflows, and operational support
 
-[Read the case study]({{ '/case-studies/lms-implementation.html' | relative_url }})
+<a class="button secondary" href="{{ '/case-studies/lms-implementation.html' | relative_url }}">Read the case study</a>
 
 ---
 
@@ -96,7 +96,7 @@ Designed interactive learning experiences that simulated real-world decision-mak
 
 For more examples of supporting materials, downloadable resources, and project collateral, visit the portfolio samples page.
 
-[View portfolio samples]({{ '/portfolio/portfolio-samples.html' | relative_url }})
+<a class="button secondary" href="{{ '/portfolio/portfolio-samples.html' | relative_url }}">View portfolio samples</a>
 
 ---
 
