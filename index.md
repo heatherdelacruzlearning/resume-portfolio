@@ -64,6 +64,11 @@ title: Home
         <p>Implemented and administered enterprise LMS platforms, creating a scalable learning environment and operational support model.</p>
         <a href="{{ '/case-studies/lms-implementation.html' | relative_url }}">Read case study</a>
       </article>
+      <article class="project-summary">
+  <h3>Rise 360 Foundations for eLearning Developers</h3>
+  <p><strong>Work in Progress.</strong> A practical onboarding course designed to help new eLearning Developers build effective, maintainable learning experiences in Articulate Rise 360.</p>
+  <a href="{{ '/portfolio/rise-360-foundations/' | relative_url }}" target="_blank" rel="noopener noreferrer">View course</a>
+</article>
     </div>
   </section>
 
