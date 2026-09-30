@@ -75,7 +75,7 @@ Produced screen-recorded instructional videos, tutorials, and supporting visual 
 - Learning videos for onboarding and product workflows
 - Visual and branded content design for digital learning
 
-[View portfolio samples]({{ '/portfolio/portfolio-samples.html' | relative_url }})
+<a class="button secondary" href="{{ '/portfolio/portfolio-samples.html' | relative_url }}">View portfolio samples</a>
 
 ---
 
