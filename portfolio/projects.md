@@ -3,7 +3,30 @@
 Professional examples of learning experience design, eLearning development, and LMS administration across healthcare technology, workforce learning, and continuing education environments.
 
 ---
+---
 
+## Rise 360 Foundations for eLearning Developers
+
+**Work in Progress | Articulate Rise 360**
+
+A practical onboarding course designed to help new eLearning Developers build effective, maintainable learning experiences in Articulate Rise 360.
+
+This project demonstrates instructional design, learner-centered writing, visual design, purposeful interaction, software training, quality assurance, and the integration of Rise 360 with Storyline 360.
+
+### Highlights
+
+- Practical onboarding for new eLearning Developers
+- Rise 360 course design and development
+- Instructional design guidance embedded into software training
+- Purposeful use of interactive Rise blocks
+- Scenario-based and decision-focused learning
+- Planned Storyline 360 interaction embedded within Rise
+- Accessibility, consistency, QA, and maintainability considerations
+- AI-assisted development with human review and refinement
+
+[View the live course]({{ '/portfolio/rise-360-foundations/' | relative_url }})
+
+---
 ## Healthcare Technology Product Training
 **Netsmart Technologies | 2019-Present**
 
