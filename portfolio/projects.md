@@ -7,7 +7,7 @@ Professional examples of learning experience design, eLearning development, and 
 
 ## Rise 360 Foundations for eLearning Developers
 
-**Work in Progress | Articulate Rise 360**
+**Work in Progress** · Articulate Rise 360
 
 A practical onboarding course designed to help new eLearning Developers build effective, maintainable learning experiences in Articulate Rise 360.
 
