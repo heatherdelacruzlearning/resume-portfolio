@@ -24,7 +24,12 @@ This project demonstrates instructional design, learner-centered writing, visual
 - Accessibility, consistency, QA, and maintainability considerations
 - AI-assisted development with human review and refinement
 
-[View the live course]({{ '/portfolio/rise-360-foundations/' | relative_url }})
+<a class="button secondary"
+   href="{{ '/portfolio/rise-360-foundations/' | relative_url }}"
+   target="_blank"
+   rel="noopener noreferrer">
+  View live course
+</a>
 
 ---
 ## Healthcare Technology Product Training
