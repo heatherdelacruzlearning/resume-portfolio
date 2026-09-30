@@ -204,6 +204,30 @@ footer {
   font-weight: 600;
 }
 
+.project-status {
+  display: inline-block;
+  margin-bottom: 0.65rem;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  background: #e8f3f3;
+  color: #0f5f66;
+  border-radius: 999px;
+}
+
+.sample-link {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.sample-link:hover {
+  text-decoration: underline;
+}
+
 /* =========================================================
    How I Work Section
    ========================================================= */
